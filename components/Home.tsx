@@ -38,19 +38,19 @@ const Home: React.FC = () => {
                             Analyze
                         </button>
                     </div>
-                    <div className="mt-3 text-sm text-gray-600 dark:text-gray-400">Your contract's privacy is our priority.</div>
+                    <div className="mt-3 text-sm text-gray-600 dark:text-gray-400">Your contract&apos s privacy is our priority.</div>
                 </div>
 
                 {/* Features Section */}
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-12 mb-16">
                     <FeatureCard icon="🚀" title="Fast" description="Experience blazing fast results with our optimized AI." />
-                    <FeatureCard icon="🔒" title="Secure" description="Your contract's safety is our top priority." />
+                    <FeatureCard icon="🔒" title="Secure" description="Your contract &apos;s safety is our top priority." />
                     <FeatureCard icon="💡" title="Innovative" description="Benefit from continuous AI learning and innovation." />
                 </div>
 
                 {/* Testimonials */}
                 <div className="bg-white dark:bg-gray-800 p-8 md:p-10 rounded-2xl shadow-2xl mx-auto w-full max-w-2xl transition-colors">
-                    <div className="text-gray-900 dark:text-gray-200 text-xl italic mb-6">"A revolutionary tool that transformed our auditing process!"</div>
+                    <div className="text-gray-900 dark:text-gray-200 text-xl italic mb-6">&quot;A revolutionary tool that transformed our auditing process!&quot;</div>
                     <div className="flex items-center">
                         <div className="rounded-full bg-gray-300 w-14 h-14 mr-4"></div> {/* Placeholder for user image */}
                         <div>
